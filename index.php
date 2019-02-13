@@ -1,4 +1,6 @@
 <?php
-echo "Opah <strong>Blz Mundo</strong>";
+
+echo "Olá <strong>Mundo blz?</strong>";
+echo "Iae <strong>Terra</strong>";
 
 ?>
